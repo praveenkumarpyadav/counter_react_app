@@ -1,0 +1,11 @@
+.mainBlock{
+    border: 2px solid blue;
+    text-align: center;
+    height: 200px;
+    width: fit-content;
+    background-color: cadetblue;
+}
+
+button{
+    background-color: brown;
+}
